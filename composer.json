@@ -1,5 +1,5 @@
 {
-  "name": "gurmanalexander/laravel-metrics",
+  "name": "qzoke/laravel-metrics",
   "description": "Managable metrics",
   "keywords": ["laravel", "metrics", "statistics", "stats"],
   "license": "MIT",
@@ -8,10 +8,14 @@
     {
       "name": "Alexander Gurman",
       "email": "gurmanalexander@gmail.com"
+    },
+    {
+      "name": "Nirpendra Patel",
+      "email": "patelnirpendra1994@gmail.com"
     }
   ],
   "require": {
-    "php": ">=5.5.0",
+    "php": ">=7.0.0",
     "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*"
   },
   "autoload": {
